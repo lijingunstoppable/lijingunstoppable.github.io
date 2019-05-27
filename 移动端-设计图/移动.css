@@ -1,0 +1,231 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+img {
+	vertical-align: middle;
+	width: 100%;
+}
+html{
+	font-size: 100px;
+}
+a{
+	text-decoration: none;
+}
+.wrapper p{
+	height: .94rem;
+	font-size: .36rem;
+	text-align: center;
+	line-height: .94rem;
+}
+.wrapper li{
+	list-style-type: none;
+}
+/* .picture{
+	width: 100%;
+} */
+.top-picture{
+	height: 3.6rem;
+}
+.positon-a{
+	position: absolute;
+}
+.positon-r{
+	position: relative;
+}
+.word{
+	font-size: .36rem;
+}
+.top-picture-wrapper p{
+	height: .36rem;
+	line-height: .36rem;
+	text-align: right;
+	right: .3rem;
+	top: 1.27rem;
+}
+.top-picture-wrapper .word-rule{
+	height: .24rem;
+	line-height: .24rem;
+	text-align: right;
+	font-size: .24rem;
+	right: .3rem;
+	top: 1.94rem;
+}
+.rear-picture-wrapper{
+	padding: .6rem .44rem 0;
+}
+.img-bottom{
+	margin-bottom: .42rem;
+}
+.footer{
+	margin-top: .61rem;
+	display:flex;
+	justify-content: center;
+}
+.footer p{
+	height: .28rem;
+	font-size: .28rem;
+	/* text-align: center; */
+	line-height: .28rem;
+}
+.footer .reseive{
+	padding-right: .87rem;
+	border-right:1px solid #000000;
+}
+.footer .give{
+	padding-left: .87rem;
+	/* border-left:1px solid #000000; */
+
+}
+.top-nav{
+	margin-top:.36rem;
+	margin-bottom:.32rem;
+	display: flex;
+}
+ .top-nav .gift img{
+	height: .35rem;
+	width: .35rem;
+	margin: auto 0;
+	margin-right: .20rem;
+	
+}
+ .top-nav .gift{
+	flex: 1;
+	height: .38rem;
+	font-size: .28rem;
+	text-align: left;
+	line-height: .38rem;
+	display: flex;
+	align-items: center;
+}
+.top-nav .zenglixuzhi{
+	flex: 1;
+	height: .38rem;
+	font-size: .24rem;
+	text-align: right;
+	line-height: .38rem;
+}
+.main-section{
+	margin:.3rem .5rem 0;
+}
+.pink-gift{
+	display: flex;
+	justify-content: center;
+}
+.pink-gift img{
+	width: 2.26rem;
+	height: 2.5rem;
+}
+.return-green{
+	height: 1.61rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.return-green img{
+	height: .66rem;
+	width: .66rem;
+}
+.lucky img{
+	width: .25rem;
+	height: .25rem;
+	margin-left: .08rem;
+}
+.lucky{
+	display: flex;
+	height: .26rem;
+	justify-content: space-around;
+}
+ .lucky .lucky-gift{
+	line-height: .26rem;
+	font-size: .24rem;
+	flex: 1;
+	height: .26rem;
+	display: flex;
+	justify-content: flex-end;
+	align-content: center;
+}
+.lucky .lucky-quantity{
+	height: .26rem;
+	line-height: .26rem;
+	font-size: .24rem;
+	height: .26rem;
+	flex: 1;
+	text-align: left;
+	
+}
+.quality{
+	margin-top: .42rem;
+}
+.quality ul{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.quality ul li{
+	width:2.98rem;
+	height: 2.64rem;
+	/* background: red; */
+	border-radius: .07rem;
+	border: 0.01rem solid #BCBCBC;
+}
+/* .ul-margin-left{
+	margin-left: .7rem;
+} */
+.ul-li-top{
+	margin-top: .31rem ;
+}
+.inline-price{
+	display: flex;
+	justify-content: space-between;
+}
+.inline-price img{
+	width: .6rem;
+	height: .5rem;
+}
+.inline-price h2{
+	width: 1.34rem;
+	height: 1.23rem;
+   /* font-size: .36rem; */
+    /* text-align: center; */
+    /* line-height: 0rem; */
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+}
+.flex{
+	display: flex;
+}
+.justify-content{
+	justify-content: center;
+}
+.align-content{
+	align-content: center;
+}
+.align-items{
+	align-items: center;
+}
+.justify-content-space-around{
+	justify-content:space-around;
+}
+.justify-content-space-between{
+	justify-content:space-between;
+}
+.last button{
+	width:1.5rem ;
+	height: 0.66rem;
+	background: #69be49;
+	color: #FFFFFF;
+	line-height:0.66rem;
+	text-align: center;
+	font-size: .3rem;
+	border-radius: .09rem;
+}
+.last a{
+	font-size: .3rem;
+	color: #FFFFFF;
+}
+/* 购买礼盒结束 */
